@@ -15,3 +15,9 @@ The experiments here implement minimal systems that:
 
 The goal is not simulation, but exposure of limits.
 
+
+## License
+
+MIT
+
+
